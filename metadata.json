@@ -1,0 +1,6 @@
+{
+  "name": "AI Tutoring & Study Companion",
+  "description": "A high-performance interactive tutoring and study dashboard for Class 10, 11, and 12 students in India, offering AI doubts solving, curriculum hubs, resource summary builders, quiz engines, and study planners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
